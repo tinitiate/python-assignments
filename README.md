@@ -21,15 +21,15 @@
 
 ## Projects
 1. Loan Management System
-    a. Simple multifile code
-    b. OOP Code with caller
-    c. Master data and outputs in DB
-    d. Implement in AWS Serverless
+    * Simple multifile code
+    * OOP Code with caller
+    * Master data and outputs in DB
+    * Implement in AWS Serverless
 
 2. POS Billing and Processing, Application-DB project
-    a. Billing Batch processing
-    b. Billing Realtime data processing
+    * Billing Batch processing
+    * Billing Realtime data processing
 
 3. Serverless Shopping cart application
-    a. Cart management
-    b. Billing
+    * Cart management
+    * Billing
