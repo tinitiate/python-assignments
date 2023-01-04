@@ -2,7 +2,20 @@
 
 ## Development of batch data processing application
 * The data for products lookup is in `masterdata\products.csv`
-* 
+* Source data is in 3 zip files about 100k files
+** batch_1_bills.zip
+** batch_2_bills.zip
+** batch_3_bad_bills.zip
+
+### Project objectives
+* Create Billing and Billing Details Tables
+* Develop DB routines to bulk load the billing data to Billing and Billing Details Tables
+* Develop Python application to load billing data to Billing and Billing Details Tables
+* Develop all exception scenarios for bad_bills
+
+## Development of realtime data processing application
+
+
 1. Create a BillGenerator.py script
     Generate a JSON with the following structure
         - ProdID should be between 1 and 25
