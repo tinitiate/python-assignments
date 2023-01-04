@@ -12,7 +12,7 @@
 7. Print all Day Names of last 20 leap years 29th feb
 8. In the given three timezones Print the timezone where sun rises first
 9. Using multithreading count billion numbers faster than, single thread
-* 10. OOP Build DS from DB, JSON files, Webservices
+10. OOP Build DS from DB, JSON files, Webservices
     a. Create a caller
         i. Constructor, file-handler/connection
         ii. Stateful addition of data
