@@ -3,9 +3,9 @@
 ## Development of batch data processing application
 * The data for products lookup is in `masterdata\products.csv`
 * Source data is in 3 zip files about 100k files
-    ** batch_1_bills.zip
-    ** batch_2_bills.zip
-    ** batch_3_bad_bills.zip
+    * `batch_1_bills.zip`
+    * `batch_2_bills.zip`
+    * `batch_3_bad_bills.zip`
 
 ### Project objectives
 * Create Billing and Billing Details Tables
