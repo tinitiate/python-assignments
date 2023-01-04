@@ -1,3 +1,8 @@
+# Point of Sale Data Processing Project
+
+## Development of batch data processing application
+* The data for products lookup is in `masterdata\products.csv`
+* 
 1. Create a BillGenerator.py script
     Generate a JSON with the following structure
         - ProdID should be between 1 and 25
